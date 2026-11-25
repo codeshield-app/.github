@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://codeshield-sa.netlify.app"><b>Try it live</b></a> ·
   <a href="https://github.com/codeshield-app/codeshield-app.github.io">Source code</a> ·
-  <a href="https://engineerlulu12.github.io/projects/codeshield.html">Case study</a>
+  <a href="https://lamis-alanazi.github.io/projects/codeshield.html">Case study</a>
 </p>
 
 ---
@@ -28,7 +28,7 @@ Submitted to the Saudi Technical Invention & Innovation Exhibition (STIEX 2026).
 ### Built by
 
 **Lamis Al-Anazi**, Software Technology student, Riyadh
-[Website](https://engineerlulu12.github.io) · [LinkedIn](https://www.linkedin.com/in/lamis-alanazi) · [GitHub](https://github.com/engineerlulu12)
+[Website](https://lamis-alanazi.github.io) · [LinkedIn](https://www.linkedin.com/in/lamis-alanazi) · [GitHub](https://github.com/lamis-alanazi)
 
 ---
 
